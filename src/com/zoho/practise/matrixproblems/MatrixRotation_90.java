@@ -1,4 +1,4 @@
-package matrixproblems;
+package com.zoho.practise.matrixproblems;
 
 public class MatrixRotation_90 {
 

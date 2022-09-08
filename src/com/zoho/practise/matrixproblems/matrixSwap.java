@@ -1,4 +1,4 @@
-package matrixproblems;
+package com.zoho.practise.matrixproblems;
 
 public class matrixSwap {
 	public static void main(String[] args) {
